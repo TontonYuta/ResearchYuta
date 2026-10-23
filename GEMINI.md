@@ -1,50 +1,40 @@
-# Quy Chuẩn Hoạt Động Kỹ Năng Nghiên Cứu Tại /home/tontonyuta/Documents/Research
+# Quy Chuẩn Hoạt Động Kỹ Năng Nghiên Cứu & Tự Học Tại /home/tontonyuta/Documents/Research
 
-Tài liệu này là quy tắc chuẩn hóa (**Workspace Rules**) áp dụng cho kho kỹ năng nghiên cứu khoa học tự động tại `/home/tontonyuta/Documents/Research`.
+Tài liệu này là quy tắc chuẩn hóa (**Workspace Rules**) áp dụng cho kho kỹ năng nghiên cứu khoa học và tự học liên tục tại `/home/tontonyuta/Documents/Research`.
 
 ---
 
-## 1. Cấu Trúc Kho Kỹ Năng Nghiên Cứu (Research Skills Hub)
-
-Thư mục `/home/tontonyuta/Documents/Research/` được tinh gọn thành **Kho Kỹ Năng Nghiên Cứu Chuyên Biệt**:
+## 1. Cấu Trúc Kho Kỹ Năng
 
 ```
 /home/tontonyuta/Documents/Research/
 ├── skills/
-│   └── ai-research-pro/                              # Kỹ năng nghiên cứu khoa học chuyên sâu
-│       ├── SKILL.md                                  # Cẩm nang kỹ năng toàn diện duy nhất
-│       ├── scripts/                                  # Bộ công cụ dòng lệnh tự động hóa:
-│       │   ├── academic_crawler.py                   # Cào arXiv tốc độ cao qua REST API chính thức
-│       │   ├── scispace_crawler.py                   # Cào SciSpace Literature Review via Playwright
-│       │   ├── run_research.py                       # CLI tổng hợp đa nguồn (arXiv + SciSpace)
-│       │   ├── academic_translator.py                # Phản tư dịch thuật học thuật 3 bước
-│       │   └── compile_latex.sh                      # Trình biên dịch LaTeX & tự dọn rác build
-│       └── references/                               # Từ điển thuật ngữ & cẩm nang sư phạm AI
-│           ├── ai_pedagogy_master_guide.md
-│           ├── anti_jargon_plain_language_dictionary.md
-│           └── papers_and_repos.md
-│
+│   ├── ai-research-pro/                              # Kỹ năng nghiên cứu khoa học chuyên sâu
+│   └── agent-continuous-learning/                    # Kỹ năng tự học & tự tiến hóa liên tục (Reflexion)
+│       ├── SKILL.md
+│       ├── scripts/ (record_lesson.py, audit_memory.py)
+│       ├── references/ (reflexion_protocol.md, anti_patterns.md)
+│       └── memory/ (evolution_ledger.jsonl)
 ├── install.sh                                        # Script 1-click symlink skills vào ~/.gemini/config/skills/
-├── .gitignore                                        # Loại trừ file rác, cache, build artifacts
-├── README.md                                         # Hướng dẫn sử dụng kho kỹ năng
-├── AGENTS.md                                         # Quy chuẩn cho Agent
-└── GEMINI.md                                         # Quy chuẩn đồng bộ hệ thống AI
+├── .gitignore
+├── README.md
+├── AGENTS.md
+└── GEMINI.md
 ```
 
 ---
 
-## 2. Kích Hoạt Kỹ Năng: `skills/ai-research-pro/SKILL.md`
+## 2. Kích Hoạt Kỹ Năng
 
-Mọi tác vụ nghiên cứu, tìm kiếm tài liệu, cào dữ liệu, tổng quan học thuật hoặc dịch thuật tuân theo tài liệu:
-* **Tệp kỹ năng chuẩn**: [`skills/ai-research-pro/SKILL.md`](./skills/ai-research-pro/SKILL.md)
+* **Nghiên cứu khoa học**: Tuân thủ [`skills/ai-research-pro/SKILL.md`](./skills/ai-research-pro/SKILL.md).
+* **Tự học & Phản tư**: Tuân thủ [`skills/agent-continuous-learning/SKILL.md`](./skills/agent-continuous-learning/SKILL.md).
 
 ---
 
-## 3. Tiêu Chuẩn Thực Thi
+## 3. Tiêu Chuẩn Tự Học & Cải Tiến Liên Tục
 
-1. **Thu thập dữ liệu nhanh & chính xác**:
-   * Ưu tiên dùng arXiv Official REST API (`academic_crawler.py`) cho tốc độ tính bằng giây và không tốn tài nguyên.
-   * Sử dụng Playwright Stealth (`scispace_crawler.py`) khi cần khai thác tính năng độc quyền của SciSpace (AI synthesis, trích dẫn, ma trận thuộc tính).
-2. **Dịch thuật & Biên soạn LaTeX**:
-   * Bình dân hóa ngôn ngữ, loại bỏ thuật ngữ sáo rỗng (Plain Language).
-   * Tự động dọn dẹp các tệp tin tạm (`.aux`, `.log`, `.out`) sau khi biên dịch PDF thành công.
+1. **Phản hồi của Người Dùng là Tín Hiệu Tối Thượng**:
+   * Khi người dùng chỉnh sửa, chê trách hoặc yêu cầu đổi hướng tiếp cận, Agent phải lập tức kích hoạt phản tư nhận thức (Reflexion).
+   * Không xin lỗi sáo rỗng. Phân tích nguyên nhân gốc rễ và ghi lại bài học vào [`skills/agent-continuous-learning/memory/evolution_ledger.jsonl`](./skills/agent-continuous-learning/memory/evolution_ledger.jsonl).
+2. **Ngăn chặn lỗi tái diễn (Zero-Repeat Policy)**:
+   * Trước khi đưa ra quyết định kiến trúc hoặc công cụ, đối chiếu với danh mục Anti-patterns trong `skills/agent-continuous-learning/references/anti_patterns.md`.
