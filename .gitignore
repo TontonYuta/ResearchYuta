@@ -1,0 +1,28 @@
+# Python & virtualenv
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+venv/
+.venv/
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# Node.js / Playwright / Caches
+node_modules/
+dist/
+.cache/
+*.session.json
+
+# Temporary research outputs & data
+output/
+research_output/
+*.json.tmp
