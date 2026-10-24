@@ -45,6 +45,11 @@ flowchart LR
 
 ## 2. Quy Trình Deep Research 5 Giai Đoạn
 
+> [!IMPORTANT]
+> **Quy Chuẩn Bắt Buộc Ở MỌI Bước Research (Mandatory Browser Grounding)**:
+> Ở **MỌI BƯỚC** nghiên cứu (từ khảo sát công nghệ, tổng quan tài liệu, thẩm định kiến trúc, đến phân tích benchmark), Agent **BẮT BUỘC** phải sử dụng công cụ tự động hóa trình duyệt/crawler thực tế (`playwright` / `nodriver` / `crawl4ai`).
+> Tuyệt đối **KHÔNG** dựa vào các đoạn trích sơ sài của search engine hay suy đoán trí nhớ. Mọi khẳng định, cú pháp, thông số kỹ thuật và phát hiện phải được cào trực tiếp từ nguồn sơ cấp (Official Docs, GitHub Repos/Releases, ArXiv/SciSpace, W3C Standards) và kiểm chứng thực tế.
+
 Khi thực hiện nghiên cứu bất kỳ đề tài học thuật nào:
 
 ### Giai Đoạn 1: Phân Rã Chủ Đề & Đa Góc Nhìn (Stanford STORM Framing)
