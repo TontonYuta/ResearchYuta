@@ -1,0 +1,156 @@
+{
+  "cybersecurity_resume_template": {
+    "url": "https://github.com/onursaritepe/CyberSecurity-Resume-Template",
+    "data": {
+      "title": "Page not found · GitHub · GitHub",
+      "headers": [
+        "Navigation Menu",
+        "Site-wide Links",
+        "THE DEVELOPER NEWSLETTER",
+        "PRODUCTS",
+        "DEVELOPERS",
+        "SUPPORT",
+        "COMPANY"
+      ],
+      "listItems": [
+        "Secret Protection",
+        "Build with Copilot",
+        "Professional Services",
+        "Customer Stories",
+        "© 2026 GITHUB, INC.",
+        "DO NOT SHARE MY PERSONAL INFORMATION",
+        "GitHub on LinkedIn",
+        "GitHub on Instagram",
+        "GitHub on YouTube",
+        "GitHub on TikTok",
+        "GitHub on Twitch",
+        "GitHub’s organization on GitHub"
+      ],
+      "textSnippet": "Find code, projects, and people on GitHub:\nSearch\nContact Support — GitHub Status — @githubstatus"
+    }
+  },
+  "roadmap_cybersecurity_roles": {
+    "url": "https://roadmap.sh/cyber-security",
+    "data": {
+      "title": "Cyber Security Roadmap: Learn to become a Cyber Security Expert",
+      "headers": [
+        "Cyber Security Expert"
+      ],
+      "listItems": [
+        "DurationNever Expires",
+        "DescriptionNo description available.",
+        "CookieAWSALBCORS",
+        "DescriptionAmazon Web Services set this cookie for load balancing.",
+        "Duration6 months",
+        "DescriptionLinkedin set this cookie for storing visitor's consent regarding using cookies for non-essential purposes.",
+        "CookieOptanonConsent",
+        "DescriptionOneTrust sets this cookie to store details about the site's cookie category and check whether visitors have given or withdrawn consent from the use of each category.",
+        "DescriptionThis cookie, set by Cloudflare, is used to support Cloudflare Bot Management.",
+        "DescriptionCloudflare sets this cookie to track users across sessions to optimize user experience by maintaining session consistency and providing personalized services",
+        "DescriptionHubSpot sets this cookie to keep track of sessions and to determine if HubSpot should increment the session number and timestamps in the __hstc cookie.",
+        "CookieOptanonAlertBoxClosed",
+        "DescriptionOneTrust sets this cookie to allow it to set cookies based on the user's consent and hide the cookies banner once the user has read and acknowledged it.",
+        "Cookietest_cookie",
+        "Duration15 minutes",
+        "Descriptiondoubleclick.net sets this cookie to determine if the user's browser supports cookies.",
+        "DescriptionAWSALB is an application load balancer cookie set by Amazon Web Services to map the session to the target.",
+        "Cookie__roadmapsh_jt__",
+        "DescriptionDescription is currently not available.",
+        "DescriptionNo description available.",
+        "DescriptionNo description available.",
+        "Cookiecookietest",
+        "DescriptionThe cookietest cookie is typically used to determine whether the user's browser accepts cookies, essential for website functionality and user experience.",
+        "Cookie__roadmapsh_vid__",
+        "DescriptionCookie used for A/B testing",
+        "Duration10 minutes",
+        "DescriptionNo description available.",
+        "CookieBCSessionID",
+        "Duration1 year 1 month 4 days",
+        "DescriptionBlueconic sets this cookie as a unique identifier for the BlueConic profile.",
+        "DescriptionLinkedIn sets the lidc cookie to facilitate data center selection.",
+        "Duration1 year 1 month 4 days",
+        "DescriptionGoogle Analytics sets this cookie to store and count page views.",
+        "Duration1 year 1 month 4 days",
+        "Duration6 months"
+      ],
+      "textSnippet": "←  All Roadmaps\nPrefer us on Google\nWeekly Newsletter\nDownload\nCyber Security Expert\n\nStep by step guide to becoming a Cyber Security Expert in 2026\n\nRoadmap\nProjects\nAI Tutor\nPersonalize\nJoin 93,911+ others tracking their progress on this roadmap\nSign up free\nCyber Security\nFundamental IT Skills\nComputer Hardware Components\nConnection Types and their function\nOS-Independent Troubleshooting\nUnderstand Basics of Popular Suites\nBasics of Computer Networking\nNFC\nWiFi\nBluetooth\nInfrared\niCloud\nGoogle Suite\nMS Office Suite\nCTFs (Capture the Flag)\nHackTheBox\nTryHackMe\nVulnHub\npicoCTF\npwn.college\nCertifications\nBeginner Certifications\nCompTIA A+\nCompTIA Linux+\nCompTIA Network+\nCCNA\nCompTIA Security+\nAdvanced Certifications\nCEH\nCISA\nCISM\nGSEC\nGPEN\nGWAPT\nGIAC\nOSCP\nCREST\nCISSP\nOperating Systems\nWindows\nLinux\nMacOS\nInstallation and Configuration\nDifferent Versions and Differences\nNavigating using GUI and CLI\nUnderstand Permissions\nInstalling Software and Applications\nPerforming CRUD on Files\nTroubleshooting\nCommon Commands\nLearn following for each\nNetworking Knowledge\nUnderstand the OSI Model\nCommon Protocols and their Uses\nCommon Ports and their Uses\nSSL and TLS Basics\nBasics of NAS and SAN\nBasics of Subnetting\nPublic vs Private IP Addresses\nIP Terminology\nlocalhost\nloopback\nCIDR\nsubnet mask\ndefault gateway\nUnderstand the Terminology\nVLAN\nDMZ\nARP\nVM\nDHCP\nDNS\nNAT\nIP\nRouter\nSwitch\nVPN\nMAN\nLAN\nWAN\nWLAN\nUnderstand these\nDHCP\nDNS\nNTP\nIPAM\nFunctions of each\nStar\nRing\nMesh\nBus\nNetwork Topologies\nSSH\nRDP\nFTP\nSFTP\nNetwork Protocols\nHTTP / HTTPS\nSSL / TLS\nVMWare\nVirtualBox\nesxi\nproxmox\nCommon Virtualization Technologies\nHypervisor\nVM\nGuestOS\nHostOS\nBasics of Virtualization\nTroubleshooting Tools\nnslookup\niptables\nPacket Sniffers\nipconfig\nnetstat\nPort Scanners\nping\ndig\narp\nProtocol Analyzers\nnmap\nroute\ntcpdump\ntracert\nKerberos\nLDAP\nSSO\nRADIUS\nCertificates\nLocal Auth\nAuthentication Methodologies\nSecurity Skills and Knowledge\nUnderstand Common Hacking Tools\nUnderstand Common Exploit Frameworks\nUnderstand Concept of Defense in Depth\nUnderstand Concept of Runbooks\nUnderstand Basics of Forensics\nBasics and Concepts of Threat Hunting\nBasics of Vulnerability Management\nBasics of Reverse Engineering\nPenetration Testing Rules of Engagement\nPerimiter vs DMZ vs Segmentation\nCore Concepts of Zero Trust\nRoles of Compliance and Auditors\nUnderstand the Definition of Risk\nUnderstand Backups and Resiliency\nCyber Kill Chain\nMFA & 2FA\nOperating System Hardening\nUnderstand Concept of Isolation\nBasics of IDS and IPS\nHoneypots\nAuthentication vs Authorization\nBlue / Red / Purple Teams\nFalse Negative / False Positive\nTrue Negative / True Positive\nBasics of Threat Intel, OSINT\nUnderstand Handshakes\nUnderstand CIA Triad\nPrivilege Escalation\nWeb Based Attacks and OWASP10\nLearn how Malware works and Types\nTools for Incident Response and Discovery\nnmap\ntracert\nnslookup\ncurl\nhping\nping\narp\ncat\ndd\nhead\ngrep\nwireshark\nwinhex\nmemdump\nFTK Imager\nautopsy\ndig\ntail\nipconfig\nBasics of Cryptography\nSalting\nHashing\nKey Exchange\nPKI\nPrivate vs Public Keys\nObfuscation\nUnderstand Frameworks\nATT&CK\nKill Chain\nDiamond Model\nUnderstand Common Standards\nISO\nNIST\nRMF\nCIS\nCSF\nUnderstand the following\nSIEM\nSOAR\nCommon Distros for hacking\nParrotOS\nKali Linux\nLOLBAS\nUsing tools for Unintended Purposes\nLearn how to find and use these logs\nEvent Logs\nsyslogs\nnetflow\nPacket Captures\nFirewall Logs\nUnderstand Hardening Concepts\nMAC-based\nNAC-based\nPort Blocking\nGroup Policy\nACLs\nSinkholes\nPatching\nJump Server\nEndpoint Security\nSecure vs Unsecure Protocols\nFTP vs SFTP\nSSL vs TLS\nIPSEC\nDNSSEC\nLDAPS\nSRTP\nS/MIME\nUnderstand the following Terms\nAntivirus\nAntimalware\nEDR\nDLP\nACL\nFirewall & Nextgen Firewall\nHIPS\nNIDS\nNIPS\nHost Based Firewall\nSandboxing\nEAP vs PEAP\nWPS\nWPA vs WPA2 vs WPA3 vs WEP\nUnderstand the Incident Response Process\nPreparation\nIdentification\nContainment\nEradication\nRecovery\nLessons Learned\nUnderstand Threat Classification\nZero Day\nKnown vs Unknown\nAPT\nUnderstand Common Tools\nVirusTotal\nJoe Sa"
+    }
+  },
+  "awesome_soc_analyst": {
+    "url": "https://github.com/cyb3rs3c/Awesome-SOC-Analyst",
+    "data": {
+      "title": "Page not found · GitHub · GitHub",
+      "headers": [
+        "Navigation Menu",
+        "Site-wide Links",
+        "THE DEVELOPER NEWSLETTER",
+        "PRODUCTS",
+        "DEVELOPERS",
+        "SUPPORT",
+        "COMPANY"
+      ],
+      "listItems": [
+        "Secret Protection",
+        "Build with Copilot",
+        "Professional Services",
+        "Customer Stories",
+        "© 2026 GITHUB, INC.",
+        "DO NOT SHARE MY PERSONAL INFORMATION",
+        "GitHub on LinkedIn",
+        "GitHub on Instagram",
+        "GitHub on YouTube",
+        "GitHub on TikTok",
+        "GitHub on Twitch",
+        "GitHub’s organization on GitHub"
+      ],
+      "textSnippet": "Find code, projects, and people on GitHub:\nSearch\nContact Support — GitHub Status — @githubstatus"
+    }
+  },
+  "owasp_web_security_testing_guide": {
+    "url": "https://github.com/OWASP/wstg",
+    "data": {
+      "title": "GitHub - OWASP/wstg: The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services. · GitHub",
+      "headers": [
+        "Navigation Menu",
+        "Repository navigation",
+        "About",
+        "Topics",
+        "Resources",
+        "Code of conduct",
+        "Contributing",
+        "Security policy",
+        "Stars",
+        "Watchers",
+        "Forks",
+        "Latest commit",
+        "History",
+        "Folders and files",
+        "Repository files navigation",
+        "OWASP Web Security Testing Guide",
+        "How To Reference WSTG Scenarios",
+        "Linking",
+        "Contributions, Feature Requests, and Feedback",
+        "Chat With Us"
+      ],
+      "listItems": [
+        "Pull requests\n9\n (9)",
+        "Security and quality",
+        "Fork1.7k\n (1.7k)",
+        "Star10.2k\n (10.2k)",
+        "CC-BY-SA-4.0 license",
+        "How To Reference WSTG Scenarios\nLinking",
+        "Contributions, Feature Requests, and Feedback",
+        "Read the current content and help us fix any spelling mistakes or grammatical errors.",
+        "Help with translation efforts.",
+        "Choose an existing issue and submit a pull request to fix it.",
+        "Open a new issue to report an opportunity for improvement.",
+        "Join the OWASP Group Slack with this invitation link.",
+        "Join this project's channel, #testing-guide.",
+        "https://owasp.org/donate/?reponame=www-project-web-security-testing-guide&title=OWASP+Web+Security+Testing+Guide",
+        "JavaScript\n23.8%",
+        "Do not share my personal information"
+      ],
+      "textSnippet": "OWASP Web Security Testing Guide\n\n  \n\nWelcome to the official repository for the Open Worldwide Application Security Project® (OWASP®) Web Security Testing Guide (WSTG). The WSTG is a comprehensive guide to testing the security of web applications and web services. Created by the collaborative efforts of security professionals and dedicated volunteers, the WSTG provides a framework of best practices used by penetration testers and organizations all over the world.\n\nWe are currently working on release version 5.0. You can read the current document here on GitHub.\n\nFor the last stable release, check release 4.2. Also available online.\n\nHow To Reference WSTG Scenarios\nLinking\nContributions, Feature Requests, and Feedback\nChat With Us\nProject Leaders\nCore Team\nTranslations\nHow To Reference WSTG Scenarios\n\nEach scenario has an identifier in the format WSTG-<category>-<number>, where: 'category' is a 4 character upper case string that identifies the type of test or weakness, and 'number' is a zero-padded numeric value from 01 to 99. For example:WSTG-INFO-02 is the second Information Gathering test.\n\nThe identifiers may change between versions. Therefore, it is preferable that other documents, reports, or tools use the format: WSTG-<version>-<category>-<number>, where: 'version' is the version tag with punctuation removed. For example: WSTG-v42-INFO-02 would be understood to mean specifically the second Information Gathering test from version 4.2.\n\nIf identifiers are used without including the <version> element, they should be assumed to refer to the latest Web Security Testing Guide content. As the guide grows and changes this becomes problematic, which is why writers or developers should include the version element.\n\nLinking\n\nLinking to Web Security Testing Guide scenarios should be done using versioned links not stable or latest, which will change with time. However, it is the project team's intention that versioned links do not change. For example: https://owasp.org/www-project-web-security-testing-guide/v42/4-Web_Application_Security_Testing/01-Information_Gathering/02-Fingerprint_Web_Server.html. Note: the v42 element refers to version 4.2.\n\nContributions, Feature Requests, and Feedback\n\nWe are actively inviting new contributors! To start, read the contribution guide.\n\nFirst time here? Here are GitHub's suggestions for first-time contributors to this repository.\n\nThis project is only possible thanks to the work of many dedicated volunteers. Everyone is encouraged to help in ways large and small. Here are a few ways you can help:\n\nRead the current content and help us fix any spelling mistakes or grammatical errors.\nHelp with translation efforts.\nChoose an existing issue and submit a pull request to fix it.\nOpen a new issue to report an opportunity for improvement.\n\nTo learn how to contribute successfully, read the contribution guide.\n\nSuccessful contributors appear on the project's list of authors, reviewers, or editors.\n\nChat With Us\n\nWe're easy to find on Slack:\n\nJoin the OWASP Group Slack with this invitation link.\nJoin this project's channel, #testing-guide.\n\nFeel free to ask questions, suggest ideas, or share your best recipes.\n\nYou can @ us on 𝕏 (Twitter) @owasp_wstg.\n\nYou can also join our Google Group.\n\nProject Leaders\nRick Mitchell\nElie Saad\nCore Team\nRejah Rehim\nVictoria Drake\nTranslations\nPortuguese-BR\nRussian\nPersian (Farsi)\nTurkish\nSpanish\n\nOpen Worldwide Application Security Project and OWASP are registered trademarks of the OWASP Foundation, Inc."
+    }
+  }
+}
