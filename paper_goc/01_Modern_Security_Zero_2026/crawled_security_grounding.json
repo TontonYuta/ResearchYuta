@@ -1,0 +1,822 @@
+{
+  "timestamp": "2026-11-02",
+  "web_sources": {
+    "roadmap_sh_cybersecurity": {
+      "url": "https://roadmap.sh/cyber-security",
+      "title": "Cyber Security Roadmap: Learn to become a Cyber Security Expert",
+      "data": {
+        "title": "Cyber Security Roadmap: Learn to become a Cyber Security Expert",
+        "headings": [
+          "Cyber Security Expert"
+        ],
+        "sample_text": "←  All Roadmaps\nPrefer us on Google\nWeekly Newsletter\nDownload\nCyber Security Expert\n\nStep by step guide to becoming a Cyber Security Expert in 2026\n\nRoadmap\nProjects\nAI Tutor\nPersonalize\nJoin 93,911+ others tracking their progress on this roadmap\nSign up free\nCyber Security\nFundamental IT Skills\nComputer Hardware Components\nConnection Types and their function\nOS-Independent Troubleshooting\nUnderstand Basics of Popular Suites\nBasics of Computer Networking\nNFC\nWiFi\nBluetooth\nInfrared\niCloud\nGoogle Suite\nMS Office Suite\nCTFs (Capture the Flag)\nHackTheBox\nTryHackMe\nVulnHub\npicoCTF\npwn.college\nCertifications\nBeginner Certifications\nCompTIA A+\nCompTIA Linux+\nCompTIA Network+\nCCNA\nCompTIA Security+\nAdvanced Certifications\nCEH\nCISA\nCISM\nGSEC\nGPEN\nGWAPT\nGIAC\nOSCP\nCREST\nCISSP\nOperating Systems\nWindows\nLinux\nMacOS\nInstallation and Configuration\nDifferent Versions and Differences\nNavigating using GUI and CLI\nUnderstand Permissions\nInstalling Software and Applications\nPerforming CRUD on Files\nTroubleshooting\nCommon Commands\nLearn following for each\nNetworking Knowledge\nUnderstand the OSI Model\nCommon Protocols and their Uses\nCommon Ports and their Uses\nSSL and TLS Basics\nBasics of NAS and SAN\nBasics of Subnetting\nPublic vs Private IP Addresses\nIP Terminology\nlocalhost\nloopback\nCIDR\nsubnet mask\ndefault gateway\nUnderstand the Terminology\nVLAN\nDMZ\nARP\nVM\nDHCP\nDNS\nNAT\nIP\nRouter\nSwitch\nVPN\nMAN\nLAN\nWAN\nWLAN\nUnderstand these\nDHCP\nDNS\nNTP\nIPAM\nFunctions of each\nStar\nRing\nMesh\nBus\nNetwork Topologies\nSSH\nRDP\nFTP\nSFTP\nNetwork Protocols\nHTTP / HTTPS\nSSL / TLS\nVMWare\nVirtualBox\nesxi\nproxmox\nCommon Virtualization Technologies\nHypervisor\nVM\nGuestOS\nHostOS\nBasics of Virtualization\nTroubleshooting Tools\nnslookup\niptables\nPacket Sniffers\nipconfig\nnetstat\nPort Scanners\nping\ndig\narp\nProtocol Analyzers\nnmap\nroute\ntcpdump\ntracert\nKerberos\nLDAP\nSSO\nRADIUS\nCertificates\nLocal Auth\nAuthentication Methodologies\nSecurity Skills and Knowledge\nUnderstand Common Hacking Tools\nUnderstand Common Exploit Frameworks\nUnderstand Concept of Defense in Depth\nUnderstand Concept of Runbooks\nUnderstand Basics of Forensics\nBasics and Concepts of Threat Hunting\nBasics of Vulnerability Management\nBasics of Reverse Engineering\nPenetration Testing Rules of Engagement\nPerimiter vs DMZ vs Segmentation\nCore Concepts of Zero Trust\nRoles of Compliance and Auditors\nUnderstand the Definition of Risk\nUnderstand Backups and Resiliency\nCyber Kill Chain\nMFA & 2FA\nOperating System Hardening\nUnderstand Concept of Isolation\nBasics of IDS and IPS\nHoneypots\nAuthentication vs Authorization\nBlue / Red / Purple Teams\nFalse Negative / False Positive\nTrue Negative / True Positive\nBasics of Threat Intel, OSINT\nUnderstand Handshakes\nUnderstand CIA Triad\nPrivilege Escalation\nWeb Based Attacks and OWASP10\nLearn how Malware works and Types\nTools for Incident Response and Discovery\nnmap\ntracert\nnslookup\ncurl\nhping\nping\narp\ncat\ndd\nhead\ngrep\nwireshark\nwinhex\nmemdump\nFTK Imager\nautopsy\ndig\ntail\nipconfig\nBasics of Cryptography\nSalting",
+        "links": [
+          {
+            "text": "NEW\nAnnouncing our new AI engineering course: How LLMs Work",
+            "href": "https://roadmap.sh/courses/how-llms-work"
+          },
+          {
+            "text": "AI Tutor",
+            "href": "https://roadmap.sh/ai"
+          },
+          {
+            "text": "Roadmaps",
+            "href": "https://roadmap.sh/roadmaps"
+          },
+          {
+            "text": "AI Tutor",
+            "href": "https://roadmap.sh/ai"
+          },
+          {
+            "text": "Packs",
+            "href": "https://roadmap.sh/packs"
+          },
+          {
+            "text": "Newsletters",
+            "href": "https://roadmap.sh/newsletters"
+          },
+          {
+            "text": "Upgrade",
+            "href": "https://roadmap.sh/premium"
+          },
+          {
+            "text": "Login",
+            "href": "https://roadmap.sh/login"
+          },
+          {
+            "text": "Sign Up",
+            "href": "https://roadmap.sh/signup"
+          },
+          {
+            "text": "←  All Roadmaps",
+            "href": "https://roadmap.sh/roadmaps"
+          },
+          {
+            "text": "Prefer us on Google",
+            "href": "https://www.google.com/preferences/source?q=roadmap.sh"
+          },
+          {
+            "text": "Download",
+            "href": "https://roadmap.sh/cyber-security#"
+          },
+          {
+            "text": "Projects",
+            "href": "https://roadmap.sh/cyber-security/projects"
+          },
+          {
+            "text": "AI Tutor",
+            "href": "https://roadmap.sh/cyber-security?chat=1"
+          },
+          {
+            "text": "Star us on GitHub\nHelp us reach #1",
+            "href": "https://github.com/kamranahmedse/developer-roadmap"
+          },
+          {
+            "text": "Register yourself\nCommit to your growth",
+            "href": "https://roadmap.sh/signup"
+          },
+          {
+            "text": "Join on Discord\nJoin the community",
+            "href": "https://roadmap.sh/discord"
+          },
+          {
+            "text": "Roadmaps",
+            "href": "https://roadmap.sh/roadmaps"
+          },
+          {
+            "text": "Guides",
+            "href": "https://roadmap.sh/guides"
+          },
+          {
+            "text": "FAQs",
+            "href": "https://roadmap.sh/about"
+          },
+          {
+            "text": "YouTube",
+            "href": "https://youtube.com/theroadmap?sub_confirmation=1"
+          },
+          {
+            "text": "roadmap.sh",
+            "href": "https://roadmap.sh/"
+          },
+          {
+            "text": "@nilbuild",
+            "href": "https://x.com/nilbuild"
+          },
+          {
+            "text": "Terms",
+            "href": "https://roadmap.sh/terms"
+          },
+          {
+            "text": "Privacy",
+            "href": "https://roadmap.sh/privacy"
+          },
+          {
+            "text": "DevOps",
+            "href": "https://thenewstack.io/category/devops?utm_source=roadmap.sh&utm_medium=Referral&utm_campaign=Footer"
+          },
+          {
+            "text": "Kubernetes",
+            "href": "https://thenewstack.io/category/kubernetes?utm_source=roadmap.sh&utm_medium=Referral&utm_campaign=Footer"
+          },
+          {
+            "text": "Cloud-Native",
+            "href": "https://thenewstack.io/category/cloud-native?utm_source=roadmap.sh&utm_medium=Referral&utm_campaign=Footer"
+          }
+        ]
+      }
+    },
+    "tryhackme_paths": {
+      "url": "https://tryhackme.com/hacktivities",
+      "title": "TryHackMe | Hacktivities",
+      "data": {
+        "title": "TryHackMe | Hacktivities",
+        "headings": [
+          "Learn",
+          "1.4K+",
+          "550+",
+          "Learning",
+          "Resources",
+          "Privacy & Legal",
+          "Get in touch",
+          "AI pentesting"
+        ],
+        "sample_text": "Learn\n\nLearn cyber security the fun way - free, interactive, and browser-based. Hack machines, investigate attacks, and build real-world skills through guided, immersive learning for all skill levels.\n\n1.4K+\n\nHands-on\n\nLabs\n\n550+\n\nCyber Security\n\nChallenges\n\nRoadmap\nPaths\nModules\nWalkthroughs\nNetworks\nAI Upskilling\nRecent Threats\nLive Classes",
+        "links": [
+          {
+            "text": "Skip to main content",
+            "href": "https://tryhackme.com/hacktivities#main-content"
+          },
+          {
+            "text": "Learn",
+            "href": "https://tryhackme.com/hacktivities"
+          },
+          {
+            "text": "AI Upskilling",
+            "href": "https://tryhackme.com/aisecurity"
+          },
+          {
+            "text": "Education",
+            "href": "https://tryhackme.com/classrooms"
+          },
+          {
+            "text": "Pricing",
+            "href": "https://tryhackme.com/pricing"
+          },
+          {
+            "text": "Downtime",
+            "href": "https://tryhackme.com/downtime"
+          },
+          {
+            "text": "Hands-on labs",
+            "href": "https://tryhackme.com/hacktivities"
+          },
+          {
+            "text": "For Business",
+            "href": "https://tryhackme.com/business"
+          },
+          {
+            "text": "For Education",
+            "href": "https://tryhackme.com/classrooms"
+          },
+          {
+            "text": "Competitive Hacking",
+            "href": "https://tryhackme.com/games/koth"
+          },
+          {
+            "text": "Certifications",
+            "href": "https://tryhackme.com/certifications"
+          },
+          {
+            "text": "About Us",
+            "href": "https://tryhackme.com/about"
+          },
+          {
+            "text": "Newsroom",
+            "href": "https://tryhackme.com/resources/newsroom"
+          },
+          {
+            "text": "Blog",
+            "href": "https://tryhackme.com/resources/blog"
+          },
+          {
+            "text": "Glossary",
+            "href": "https://tryhackme.com/glossary"
+          },
+          {
+            "text": "Work at TryHackMe",
+            "href": "https://careers.tryhackme.com/"
+          },
+          {
+            "text": "Careers in Cyber",
+            "href": "https://tryhackme.com/cyber-security-careers"
+          },
+          {
+            "text": "Swag Shop",
+            "href": "https://store.tryhackme.com/"
+          },
+          {
+            "text": "Community",
+            "href": "https://tryhackme.com/community"
+          },
+          {
+            "text": "Privacy Policy",
+            "href": "https://tryhackme.com/legal/privacy-policy"
+          },
+          {
+            "text": "Terms of Use",
+            "href": "https://tryhackme.com/legal/terms-of-use"
+          },
+          {
+            "text": "AI Terms of Use",
+            "href": "https://tryhackme.com/legal/ai-terms-of-use"
+          },
+          {
+            "text": "Acceptable Use Policy",
+            "href": "https://tryhackme.com/legal/acceptable-use-policy"
+          },
+          {
+            "text": "Cookie Policy",
+            "href": "https://tryhackme.com/legal/cookie-policy"
+          },
+          {
+            "text": "Contact Us",
+            "href": "https://tryhackme.com/contact"
+          },
+          {
+            "text": "Affiliates",
+            "href": "https://tryhackme.com/affiliates"
+          },
+          {
+            "text": "Student Discount",
+            "href": "https://www.studentbeans.com/en-gb/uk/beansid-connect/hosted/tryhackme"
+          },
+          {
+            "text": "NoScope",
+            "href": "https://www.noscope.com/?utm_source=tryhackme&utm_medium=referral&utm_campaign=thm_evergreen&utm_content=footer"
+          }
+        ]
+      }
+    },
+    "portswigger_academy": {
+      "url": "https://portswigger.net/web-security",
+      "title": "Web Security Academy: Free Online Training from PortSwigger",
+      "data": {
+        "title": "Web Security Academy: Free Online Training from PortSwigger",
+        "headings": [
+          "Free, online web security training from the creators of Burp Suite",
+          "New labs: AI-powered scanner vulnerabilities",
+          "Learning materials and labs",
+          "Up-to-the-minute learning resources",
+          "Satisfy your curiosity - safely and legally",
+          "Hack like the pros do",
+          "Web security training built for humans, not robots",
+          "Track your progress, win cool swag",
+          "All topics"
+        ],
+        "sample_text": "MY ACCOUNT\nProducts\nSolutions\nResearch\nAcademy\nSupport\nCustomers\nAbout\nBlog\nCareers\nLegal\nContact\nResellers\nCustomers\nAbout\nBlog\nCareers\nLegal\nContact\nResellers\nBurp AT\nAgentic AI that extends human-led pentesting.\nBurp Suite DAST\nThe enterprise-enabled dynamic web vulnerability scanner.\nBurp Suite Professional\nThe world's #1 web penetration testing toolkit.\nBurp Suite Community Edition\nThe best manual tools to start web security testing.\nView all product editions\n\nBurp Scanner\n\nBurp Suite's web vulnerability scanner\n\nAttack surface visibility\nImprove security posture, prioritize manual testing, free up time.\nCI-driven scanning\nMore proactive security - find and fix vulnerabilities earlier.\nApplication security testing\nSee how our software enables the world to secure the web.\nDevSecOps\nCatch critical bugs; ship more secure software, more quickly.\nPenetration testing\nAccelerate penetration testing - find more bugs, more quickly.\nAutomated scanning\nScale dynamic scanning. Reduce risk. Save time/money.\nBug bounty hunting\nLevel up your hacking and earn more bug bounties.\nCompliance\nEnhance security monitoring to comply with confidence.\nView all solutions\n\nProduct comparison\n\nWhat's the difference between Pro and DAST?\n\nSupport Center\nGet help and advice from our experts on all things Burp.\nDocumentation\nTutorials and guides for Burp Suite.\nGet Started - Professional\nGet started with Burp Suite Professional.\nGet Started - DAST\nGet started with Burp Suite DAST.\nDownloads\nDownload the latest version of Burp Suite.\nVisit the Support Center\n\nDownloads\n\nDownload the latest version of Burp Suite.\n\nDashboard\nLearning paths\nLatest topics\nAll content\nHall of Fame\nGet started\nGet certified\nFree, online web security training from the creators of Burp Suite\nSign up Login\n\nBoost your career\n\nThe Web Security Academy is a strong step toward a career in cybersecurity.\n\nFlexible learning\n\nLearn anywhere, anytime, with free interactive labs and progress-tracking.\n\nLearn from experts\n\nProduced by a world-class team - led by the author of The Web Application Hacker's Handbook.\n\nNew labs: AI-powered scanner vulnerabilities\n\nLearn how indirect prompt injection can be used to manipulate AI-powered web application scanners into performing unintended actions, exfiltrating sensitive data, and making unauthorized internal requests.\n\nLearn more\nLearning materials and labs\n\nLatest\n\nWeb cache deception\n\n5 labs\n\nWeb LLM attacks\n\n7 labs\n\nAPI testing\n\n5 labs\n\nNoSQL injection\n\n4 labs\n\nFeatured\n\nSQL injection\n\n16 labs\n\nCross-site scripting (XSS)\n\n30 labs\n\nCross-site request forgery (CSRF)\n\n8 labs\n\nXXE injection\n\n9 labs\n\nView all learning materialsView all labs\nUp-to-the-minute learning resources\n\nThe Web Security Academy is a free online training center for web application security. It includes content from PortSwigger's in-house research team, experienced academics, and our Chief Swig Dafydd Stuttard - author of The Web Application Hacker's Handbook.\n\nUnlike a textbook, the Academy i",
+        "links": [
+          {
+            "text": "MY ACCOUNT",
+            "href": "https://portswigger.net/users/youraccount/personaldetails"
+          },
+          {
+            "text": "Research",
+            "href": "https://portswigger.net/research"
+          },
+          {
+            "text": "Academy",
+            "href": "https://portswigger.net/web-security"
+          },
+          {
+            "text": "Customers",
+            "href": "https://portswigger.net/customers"
+          },
+          {
+            "text": "About",
+            "href": "https://portswigger.net/about"
+          },
+          {
+            "text": "Blog",
+            "href": "https://portswigger.net/blog"
+          },
+          {
+            "text": "Careers",
+            "href": "https://portswigger.net/careers"
+          },
+          {
+            "text": "Legal",
+            "href": "https://portswigger.net/legal"
+          },
+          {
+            "text": "Contact",
+            "href": "https://portswigger.net/contact"
+          },
+          {
+            "text": "Resellers",
+            "href": "https://portswigger.net/support/reseller-faqs"
+          },
+          {
+            "text": "My account",
+            "href": "https://portswigger.net/users/youraccount"
+          },
+          {
+            "text": "Customers",
+            "href": "https://portswigger.net/customers"
+          },
+          {
+            "text": "About",
+            "href": "https://portswigger.net/about"
+          },
+          {
+            "text": "Blog",
+            "href": "https://portswigger.net/blog"
+          },
+          {
+            "text": "Careers",
+            "href": "https://portswigger.net/careers"
+          },
+          {
+            "text": "Legal",
+            "href": "https://portswigger.net/legal"
+          },
+          {
+            "text": "Contact",
+            "href": "https://portswigger.net/contact"
+          },
+          {
+            "text": "Resellers",
+            "href": "https://portswigger.net/support/reseller-faqs"
+          },
+          {
+            "text": "Burp AT\nAgentic AI that extends human-led pentesting.",
+            "href": "https://portswigger.net/burp/burp-at"
+          },
+          {
+            "text": "Burp Suite DAST\nThe enterprise-enabled dynamic web vulnerability scanner.",
+            "href": "https://portswigger.net/burp/enterprise"
+          },
+          {
+            "text": "Burp Suite Professional\nThe world's #1 web penetration testing toolkit.",
+            "href": "https://portswigger.net/burp/pro"
+          },
+          {
+            "text": "Burp Suite Community Edition\nThe best manual tools to start web security testing.",
+            "href": "https://portswigger.net/burp/communitydownload"
+          },
+          {
+            "text": "View all product editions",
+            "href": "https://portswigger.net/burp"
+          },
+          {
+            "text": "Burp Scanner\n\nBurp Suite's web vulnerability scanner",
+            "href": "https://portswigger.net/burp/vulnerability-scanner"
+          },
+          {
+            "text": "Attack surface visibility\nImprove security posture, prioritize manual testing, free up time.",
+            "href": "https://portswigger.net/solutions/attack-surface-visibility"
+          },
+          {
+            "text": "CI-driven scanning\nMore proactive security - find and fix vulnerabilities earlier.",
+            "href": "https://portswigger.net/solutions/ci-driven-scanning"
+          },
+          {
+            "text": "Application security testing\nSee how our software enables the world to secure the web.",
+            "href": "https://portswigger.net/solutions"
+          },
+          {
+            "text": "DevSecOps\nCatch critical bugs; ship more secure software, more quickly.",
+            "href": "https://portswigger.net/solutions/devsecops"
+          },
+          {
+            "text": "Penetration testing\nAccelerate penetration testing - find more bugs, more quickly.",
+            "href": "https://portswigger.net/solutions/penetration-testing"
+          },
+          {
+            "text": "Automated scanning\nScale dynamic scanning. Reduce risk. Save time/money.",
+            "href": "https://portswigger.net/solutions/automated-security-testing"
+          }
+        ]
+      }
+    },
+    "github_awesome_security": {
+      "url": "https://github.com/sbilly/awesome-security",
+      "title": "GitHub - sbilly/awesome-security: A collection of awesome software, libraries, documents, books, resources and cools stuffs about security. · GitHub",
+      "data": {
+        "title": "GitHub - sbilly/awesome-security: A collection of awesome software, libraries, documents, books, resources and cools stuffs about security. · GitHub",
+        "headings": [
+          "Navigation Menu",
+          "Repository navigation",
+          "About",
+          "Topics",
+          "Resources",
+          "Contributing",
+          "Stars",
+          "Watchers",
+          "Forks",
+          "Latest commit",
+          "History",
+          "Folders and files",
+          "Repository files navigation",
+          "Awesome Security",
+          "Network",
+          "Network architecture",
+          "Scanning / Pentesting",
+          "Monitoring / Logging",
+          "IDS / IPS / Host IDS / Host IPS",
+          "Honey Pot / Honey Net",
+          "Full Packet Capture / Forensic",
+          "Sniffer",
+          "Security Information & Event Management",
+          "VPN",
+          "Fast Packet Processing",
+          "Firewall",
+          "Anti-Spam",
+          "Docker Images for Penetration Testing & Security",
+          "Endpoint",
+          "Anti-Virus / Anti-Malware",
+          "Content Disarm & Reconstruct",
+          "Configuration Management",
+          "Authentication",
+          "Mobile / Android / iOS",
+          "Forensics",
+          "Threat Intelligence",
+          "Social Engineering",
+          "Web",
+          "Organization",
+          "Web Application Firewall",
+          "Scanning / Pentesting",
+          "Runtime Application Self-Protection",
+          "Development",
+          "Exploits & Payloads",
+          "Red Team Infrastructure Deployment",
+          "Blue Team Infrastructure Deployment",
+          "Usability",
+          "Big Data",
+          "DevOps",
+          "Terminal",
+          "Operating Systems",
+          "Privacy & Security",
+          "Online resources",
+          "Datastores",
+          "Fraud prevention",
+          "EBooks",
+          "Other Awesome Lists",
+          "Other Security Awesome Lists",
+          "Other Common Awesome Lists",
+          "Contributing",
+          "About",
+          "Topics",
+          "Resources",
+          "Contributing",
+          "Stars",
+          "Watchers",
+          "Forks",
+          "Releases",
+          "Contributors\n149\n (149)",
+          "Footer",
+          "Footer navigation"
+        ],
+        "sample_text": "Awesome Security\n\nA collection of awesome software, libraries, documents, books, resources and cool stuff about security.\n\nInspired by awesome-php, awesome-python.\n\nThanks to all contributors, you're awesome and wouldn't be possible without you! The goal is to build a categorized community-driven collection of very well-known resources.\n\nAwesome Security\nNetwork\nScanning / Pentesting\nMonitoring / Logging\nIDS / IPS / Host IDS / Host IPS\nHoney Pot / Honey Net\nFull Packet Capture / Forensic\nSniffer\nSecurity Information & Event Management\nVPN\nFast Packet Processing\nFirewall\nAnti-Spam\nDocker\nEndpoint\nAnti-Virus / Anti-Malware\nContent Disarm & Reconstruct\nConfiguration Management\nAuthentication\nMobile / Android / iOS\nForensics\nThreat Intelligence\nSocial Engineering\nWeb\nOrganization\nWeb Application Firewall\nScanning / Pentesting\nRuntime Application Self-Protection\nDevelopment\nRed Team Infrastructure Deployment\nExploits & Payloads\nUsability\nBig Data\nDevOps\nTerminal\nOperating Systems\nOnline resources\nDatastores\nFraud prevention\nEBooks\nOther Awesome Lists\nOther Security Awesome Lists\nOther Common Awesome Lists\nContributing\nNetwork\nNetwork architecture\nNetwork-segmentation-cheat-sheet - This project was created to publish the best practices for segmentation of the corporate network of any company. In general, the schemes in this project are suitable for any company.\nScanning / Pentesting\nOpenVAS - OpenVAS is a framework of several services and tools offering a comprehensive and powerful vulnerability scanning and vulnerability management solution.\nMetasploit Framework - A tool for developing and executing exploit code against a remote target machine. Other important sub-projects include the Opcode Database, shellcode archive and related research.\nKali - Kali Linux is a Debian-derived Linux distribution designed for digital forensics and penetration testing. Kali Linux is preinstalled with numerous penetration-testing programs, including nmap (a port scanner), Wireshark (a packet analyzer), John the Ripper (a password cracker), and Aircrack-ng (a software suite for penetration-testing wireless LANs).\ntsurugi - heavily customized Linux distribution that designed to support DFIR investigations, malware analysis and OSINT activities. It is based on Ubuntu 20.04(64-bit with a 5.15.12 custom kernel)\npig - A Linux packet crafting tool.\nscapy - Scapy: the python-based interactive packet manipulation program & library.\nPompem - Pompem is an open source tool, which is designed to automate the search for exploits in major databases. Developed in Python, has a system of advanced search, thus facilitating the work of pentesters and ethical hackers. In its current version, performs searches in databases: Exploit-db, 1337day, Packetstorm Security...\nNmap - Nmap is a free and open source utility for network discovery and security auditing.\nAmass - Amass performs DNS subdomain enumeration by scraping the largest number of disparate data sources, recursive brute forcing, cra",
+        "links": [
+          {
+            "text": "Skip to content",
+            "href": "https://github.com/sbilly/awesome-security#start-of-content"
+          },
+          {
+            "text": "Sign in",
+            "href": "https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fsbilly%2Fawesome-security"
+          },
+          {
+            "text": "Pricing",
+            "href": "https://github.com/pricing"
+          },
+          {
+            "text": "Sign in",
+            "href": "https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fsbilly%2Fawesome-security"
+          },
+          {
+            "text": "Sign up",
+            "href": "https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=sbilly%2Fawesome-security"
+          },
+          {
+            "text": "Reload",
+            "href": "https://github.com/sbilly/awesome-security"
+          },
+          {
+            "text": "Reload",
+            "href": "https://github.com/sbilly/awesome-security"
+          },
+          {
+            "text": "Reload",
+            "href": "https://github.com/sbilly/awesome-security"
+          },
+          {
+            "text": "sbilly",
+            "href": "https://github.com/sbilly"
+          },
+          {
+            "text": "awesome-security",
+            "href": "https://github.com/sbilly/awesome-security"
+          },
+          {
+            "text": "Code",
+            "href": "https://github.com/sbilly/awesome-security"
+          },
+          {
+            "text": "Issues\n35\n (35)",
+            "href": "https://github.com/sbilly/awesome-security/issues"
+          },
+          {
+            "text": "Pull requests\n344\n (344)",
+            "href": "https://github.com/sbilly/awesome-security/pulls"
+          },
+          {
+            "text": "Actions",
+            "href": "https://github.com/sbilly/awesome-security/actions"
+          },
+          {
+            "text": "Projects",
+            "href": "https://github.com/sbilly/awesome-security/projects"
+          },
+          {
+            "text": "Wiki",
+            "href": "https://github.com/sbilly/awesome-security/wiki"
+          },
+          {
+            "text": "Security and quality",
+            "href": "https://github.com/sbilly/awesome-security/security"
+          },
+          {
+            "text": "Insights",
+            "href": "https://github.com/sbilly/awesome-security/pulse"
+          },
+          {
+            "text": "awesome-security",
+            "href": "https://github.com/sbilly/awesome-security"
+          },
+          {
+            "text": "Notifications",
+            "href": "https://github.com/login?return_to=%2Fsbilly%2Fawesome-security"
+          },
+          {
+            "text": "Fork2.5k\n (2.5k)",
+            "href": "https://github.com/login?return_to=%2Fsbilly%2Fawesome-security"
+          },
+          {
+            "text": "Star15.1k\n (15.1k)",
+            "href": "https://github.com/login?return_to=%2Fsbilly%2Fawesome-security"
+          },
+          {
+            "text": "awesome-list",
+            "href": "https://github.com/topics/awesome-list"
+          },
+          {
+            "text": "security",
+            "href": "https://github.com/topics/security"
+          },
+          {
+            "text": "Readme",
+            "href": "https://github.com/sbilly/awesome-security#readme-ov-file"
+          },
+          {
+            "text": "MIT license",
+            "href": "https://github.com/sbilly/awesome-security#MIT-1-ov-file"
+          },
+          {
+            "text": "Contributing",
+            "href": "https://github.com/sbilly/awesome-security#contributing-ov-file"
+          },
+          {
+            "text": "Activity",
+            "href": "https://github.com/sbilly/awesome-security/activity"
+          },
+          {
+            "text": "2.5k forks",
+            "href": "https://github.com/sbilly/awesome-security/forks"
+          },
+          {
+            "text": "Report repository",
+            "href": "https://github.com/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fsbilly%2Fawesome-security&report=sbilly+%28user%29"
+          }
+        ]
+      }
+    },
+    "github_owasp_top10_llm": {
+      "url": "https://github.com/OWASP/www-project-top-10-for-large-language-model-applications",
+      "title": "GitHub - OWASP/www-project-top-10-for-large-language-model-applications: OWASP Top 10 for Large Language Model Apps (Part of the GenAI Security Project) · GitHub",
+      "data": {
+        "title": "GitHub - OWASP/www-project-top-10-for-large-language-model-applications: OWASP Top 10 for Large Language Model Apps (Part of the GenAI Security Project) · GitHub",
+        "headings": [
+          "Navigation Menu",
+          "Repository navigation",
+          "About",
+          "Topics",
+          "Resources",
+          "Contributing",
+          "Security policy",
+          "Stars",
+          "Watchers",
+          "Forks",
+          "Latest commit",
+          "History",
+          "Folders and files",
+          "Repository files navigation",
+          "OWASP Top 10 for Large Language Model Applications",
+          "About This Repository",
+          "Releases",
+          "Contributing",
+          "License",
+          "Historical Repository Activity",
+          "About",
+          "Topics",
+          "Resources",
+          "Contributing",
+          "Security policy",
+          "Stars",
+          "Watchers",
+          "Forks",
+          "Releases\n3\n (3)",
+          "Sponsor this project",
+          "Contributors\n76\n (76)",
+          "Languages",
+          "Footer",
+          "Footer navigation"
+        ],
+        "sample_text": "OWASP Top 10 for Large Language Model Applications\n\nImportant\n\nThis repository is maintained as a legacy entry point and historical archive. Active development has moved to GenAI-Security-Project/GenAI-LLM-Top10.\n\nCurrent release: OWASP GenAI LLM Top 10 2026 — published August 4, 2026.\n\nGet the 2026 publication · Browse the current source · Report a correction\n\n  \n\nAbout This Repository\n\nThis repository powered the original OWASP project page and contains historical releases, translations, working files, and supporting materials for the OWASP Top 10 for Large Language Model Applications.\n\nIt remains available so existing links, citations, and historical artifacts continue to work. New issues, pull requests, and release work should be directed to the active repository.\n\nThe Top 10 is now a core initiative within the broader OWASP GenAI Security Project, which develops freely available guidance and resources for securing generative AI systems and applications.\n\nReleases\nOWASP GenAI LLM Top 10 2026 — current release\nOWASP Top 10 for LLM Applications 2025 — archived release\nEarlier releases and translations — historical material\nContributing\n\nUse the active repository to:\n\nReport a correction to the 2026 release\nSubmit broader release feedback\nOpen a pull request\n\nFor the broader project contribution process, visit genai.owasp.org/contribute.\n\nWe have a working group channel on OWASP Slack: #team-genai-top-10-llm.\n\nLicense\n\nThis project is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.\n\nHistorical Repository Activity",
+        "links": [
+          {
+            "text": "Skip to content",
+            "href": "https://github.com/OWASP/www-project-top-10-for-large-language-model-applications#start-of-content"
+          },
+          {
+            "text": "Sign in",
+            "href": "https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FOWASP%2Fwww-project-top-10-for-large-language-model-applications"
+          },
+          {
+            "text": "Pricing",
+            "href": "https://github.com/pricing"
+          },
+          {
+            "text": "Sign in",
+            "href": "https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FOWASP%2Fwww-project-top-10-for-large-language-model-applications"
+          },
+          {
+            "text": "Sign up",
+            "href": "https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=OWASP%2Fwww-project-top-10-for-large-language-model-applications"
+          },
+          {
+            "text": "Reload",
+            "href": "https://github.com/OWASP/www-project-top-10-for-large-language-model-applications"
+          },
+          {
+            "text": "Reload",
+            "href": "https://github.com/OWASP/www-project-top-10-for-large-language-model-applications"
+          },
+          {
+            "text": "Reload",
+            "href": "https://github.com/OWASP/www-project-top-10-for-large-language-model-applications"
+          },
+          {
+            "text": "OWASP",
+            "href": "https://github.com/OWASP"
+          },
+          {
+            "text": "www-project-top-10-for-large-language-model-applications",
+            "href": "https://github.com/OWASP/www-project-top-10-for-large-language-model-applications"
+          },
+          {
+            "text": "Code",
+            "href": "https://github.com/OWASP/www-project-top-10-for-large-language-model-applications"
+          },
+          {
+            "text": "Issues\n27\n (27)",
+            "href": "https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/issues"
+          },
+          {
+            "text": "Pull requests\n60\n (60)",
+            "href": "https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/pulls"
+          },
+          {
+            "text": "Actions",
+            "href": "https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/actions"
+          },
+          {
+            "text": "Projects",
+            "href": "https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/projects"
+          },
+          {
+            "text": "Wiki",
+            "href": "https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/wiki"
+          },
+          {
+            "text": "Security and quality",
+            "href": "https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/security"
+          },
+          {
+            "text": "Insights",
+            "href": "https://github.com/OWASP/www-project-top-10-for-large-language-model-applications/pulse"
+          },
+          {
+            "text": "www-project-top-10-for-large-language-model-applications",
+            "href": "https://github.com/OWASP/www-project-top-10-for-large-language-model-applications"
+          },
+          {
+            "text": "Sponsor",
+            "href": "https://github.com/sponsors/OWASP"
+          },
+          {
+            "text": "Notifications",
+            "href": "https://github.com/login?return_to=%2FOWASP%2Fwww-project-top-10-for-large-language-model-applications"
+          },
+          {
+            "text": "Fork372\n (372)",
+            "href": "https://github.com/login?return_to=%2FOWASP%2Fwww-project-top-10-for-large-language-model-applications"
+          },
+          {
+            "text": "Star1.5k\n (1.5k)",
+            "href": "https://github.com/login?return_to=%2FOWASP%2Fwww-project-top-10-for-large-language-model-applications"
+          },
+          {
+            "text": "genai.owasp.org",
+            "href": "http://genai.owasp.org/"
+          },
+          {
+            "text": "appsec",
+            "href": "https://github.com/topics/appsec"
+          },
+          {
+            "text": "llm-security",
+            "href": "https://github.com/topics/llm-security"
+          },
+          {
+            "text": "Readme",
+            "href": "https://github.com/OWASP/www-project-top-10-for-large-language-model-applications#readme-ov-file"
+          },
+          {
+            "text": "License",
+            "href": "https://github.com/OWASP/www-project-top-10-for-large-language-model-applications#License-1-ov-file"
+          },
+          {
+            "text": "Contributing",
+            "href": "https://github.com/OWASP/www-project-top-10-for-large-language-model-applications#contributing-ov-file"
+          },
+          {
+            "text": "Security policy",
+            "href": "https://github.com/OWASP/www-project-top-10-for-large-language-model-applications#security-ov-file"
+          }
+        ]
+      }
+    }
+  },
+  "arxiv_papers": [
+    {
+      "title": "How Deterministic SAST and AI Security Agents Divide the Work: Coverage, Harness Policy and Cost in Snyk VulnBench 2.0",
+      "summary": "We ask what AI coding agents and AI security harnesses find that deterministic static application security testing (SAST) does not, and what they miss that SAST catches. VulnBench 2.0 is a benchmark of 108 hand-curated, attacker-reachable vulnerabilities in 20 open-source web applications in Go, JavaScript/TypeScript, Python and Java; 62 flow across more than one file. A finding is credited only i...",
+      "published": "2026-10-28T10:38:43Z",
+      "pdf_url": "https://arxiv.org/pdf/2610.38617v1"
+    },
+    {
+      "title": "What Victims Take Away: Attack Reuse and Defense Revision after Prompt-Injection Attacks",
+      "summary": "Attack logs and red-team reports show targets the attacks used against them, to help them repair their defenses. Prompt injections against large language models (LLMs) are plain text, so such records also hand targets a working copy. Drawing on social learning theory and work on the victim-offender overlap, we study what targets do with that copy in Tensor Trust, an online game whose players defen...",
+      "published": "2026-10-27T00:04:45Z",
+      "pdf_url": "https://arxiv.org/pdf/2610.36422v1"
+    },
+    {
+      "title": "Bringing Hardware Security Education to All: A Seamless Curriculum Integration Approach",
+      "summary": "Cybersecurity education has predominantly focused on software and network security, under the assumption that the underlying hardware is trustworthy. Threats introduced through the global semiconductor supply chain, together with vulnerabilities arising during design and integration, challenge the assumption that hardware can serve as an unquestioned root of trust. Sensor-enabled systems and machi...",
+      "published": "2026-10-26T19:52:36Z",
+      "pdf_url": "https://arxiv.org/pdf/2610.36219v2"
+    },
+    {
+      "title": "Pricing Cross-Bank Context in Federated Anti-Money Laundering",
+      "summary": "Most graph-based Anti-Money Laundering (AML) methods assume access to a pooled transaction graph containing all accounts and payments, which in reality does not exist. Federated learning offers the necessary privacy guarantees but it remains unclear how money laundering patterns spanning separate graphs can effectively be detected. We exploit transactions already recorded by both endpoint banks to...",
+      "published": "2026-10-26T13:12:13Z",
+      "pdf_url": "https://arxiv.org/pdf/2610.35996v1"
+    },
+    {
+      "title": "Can Open Be Too Open? On the Security and Trustworthiness of Fully Transparent LLMs",
+      "summary": "There are different levels of transparency for LLMs: open weights, open data, and/or open pipeline. Recently, more interest has emerged in fully transparent LLMs, i.e., LLMs with fully open weights, data, and training pipeline. Drawing analogies to other fields such as software security, it is often believed that increasing transparency inherently increases the security and trustworthiness of the ...",
+      "published": "2026-10-26T10:52:08Z",
+      "pdf_url": "https://arxiv.org/pdf/2610.35199v1"
+    },
+    {
+      "title": "AI Security Literacy: Ecosystem-based Competency Framework and K-12 Learning Platform",
+      "summary": "Adoption of artificial intelligence in K-12 schools has outpaced guidance for students, teachers, and administrators. Existing AI-literacy frameworks emphasize understanding and use; cybersecurity frameworks predate AI-specific threats, and neither defines AI security literacy as a competency domain in its own right. We propose an AI Security Literacy (AISL) framework of six dimensions spanning th...",
+      "published": "2026-10-20T19:31:37Z",
+      "pdf_url": "https://arxiv.org/pdf/2610.28859v1"
+    },
+    {
+      "title": "Fake News, Real Crashes: Information Injection Attacks on LLM Financial Trading Agents",
+      "summary": "Large language model (LLM) agents now trade real capital using news as evidence, yet they cannot reliably tell fabricated headlines from real news. Because they read the same feeds under near-identical policies, a single fabricated post can push them into the same trade at the same moment. We present a systematic attack benchmark for information injection against LLM trading agents. Unlike prompt ...",
+      "published": "2026-10-19T13:58:50Z",
+      "pdf_url": "https://arxiv.org/pdf/2610.26438v1"
+    },
+    {
+      "title": "From Detection to Decision: Calibration and Deferral for Prompt-Injection Detection",
+      "summary": "Prompt-injection defenses are commonly evaluated as binary detectors, although deployed LLM applications must make operational decisions about whether to allow, block, or escalate potentially malicious inputs. Recent probabilistic decision models aim to support such decisions through calibrated confidence estimates, but their reliability under distribution shift remains uncertain. We evaluate a na...",
+      "published": "2026-10-14T20:34:51Z",
+      "pdf_url": "https://arxiv.org/pdf/2610.20907v1"
+    }
+  ]
+}
